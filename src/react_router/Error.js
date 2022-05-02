@@ -3,7 +3,7 @@ import React from 'react'
 const Error = () => {
     return (
         <div>
-            Error page
+            404: Not found. The resource requested could not be found on this server.
         </div>
     )
 }

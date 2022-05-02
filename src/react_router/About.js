@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => {
     return (
         <div>
-            About
+            This is a basic React Router Dom by Annie Kyles.
         </div>
     )
 }
